@@ -1,9 +1,11 @@
 But
 ===
 Produire le code serveur exposé via des API REST correspondant aux user stories décrites ci-dessous. 
+
 Travail
 -------
 Lors de la planification du lundi matin, le product owner vous a assigné les users stories suivantes :
+
 **User story 1 :**
 > En tant qu'utilisateur ayant les droits "administrateur", je veux pouvoir insérer une question / réponse dans la base de connaissances (FAQ) du produit. Une question / réponse est définie par :
 > 1. Le libellé de la question ;
@@ -15,7 +17,7 @@ Lors de la planification du lundi matin, le product owner vous a assigné les us
 
 Attendus techniques
 -------------------
-Vous donnerez accès à `netheosgithub` à votre projet. Celui-ci devra être :
+Vous donnerez accès à `netheos` à votre projet. Celui-ci devra être :
 * compilable sous la forme d'un WAR (java 8+) ;
 * déployable dans Tomcat ;
 * assemblé via Maven.
