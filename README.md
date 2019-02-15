@@ -23,7 +23,7 @@ Attendus techniques
 Vous donnerez accès à `netheos` à votre projet hébergé sur github. Celui-ci devra :
 * utiliser un SGBD type MySQL (ou MariaDB) ou PostgreSQL ;
 * être compilable sous la forme d'un WAR ou d'un fat jar (java 8+) ;
-* être assemblé via Graddle.
+* être assemblé via Gradle.
 
 Vous fournirez un fichier readme.md décrivant la procédure pour tester votre code avec, au choix, une liste de requêtes cURL ou un fichier Postman.
 
